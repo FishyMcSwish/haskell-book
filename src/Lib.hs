@@ -2,7 +2,7 @@ module Lib
     ( someFunc
     ) where
 
-import CH18.Exercises
+import CH20.Foldable
 
 someFunc :: IO ()
 someFunc = putStrLn "someFunc"

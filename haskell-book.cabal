@@ -30,6 +30,7 @@ library
       CH16.Exercises
       CH17.Exercises
       CH18.Exercises
+      CH20.Foldable
       Lib
   other-modules:
       Paths_haskell_book
