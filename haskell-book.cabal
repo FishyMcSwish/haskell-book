@@ -31,6 +31,8 @@ library
       CH17.Exercises
       CH18.Exercises
       CH20.Foldable
+      CH21.Traversable
+      CH22.Reader
       Lib
   other-modules:
       Paths_haskell_book
