@@ -33,6 +33,8 @@ library
       CH20.Foldable
       CH21.Traversable
       CH22.Reader
+      CH22.ReaderPractice
+      CH23.StateStuff
       Lib
   other-modules:
       Paths_haskell_book
@@ -42,6 +44,8 @@ library
       QuickCheck
     , base >=4.7 && <5
     , checkers
+    , random
+    , transformers
   default-language: Haskell2010
 
 executable haskell-book-exe
